@@ -1,6 +1,7 @@
 ---
 name: superpowers
-description: Master orchestration skill — read at task start to enforce skill-first discipline. Establishes the sequential workflow (brainstorm → plan → execute → verify) and requires checking for applicable skills before ANY action, including clarifying questions.
+description: >
+  Complete software development methodology for ToqanClaw: structured brainstorming, implementation planning, sub-agent-driven execution with two-stage code review, TDD, systematic debugging, and evidence-before-claims discipline. Use before any build, implement, fix, or ship request. Ported from Superpowers by obra — the battle-tested development workflow originally built for Claude Code.
 ---
 
 # Superpowers for ToqanClaw
